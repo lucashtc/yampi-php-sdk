@@ -1,7 +1,7 @@
 {
-    "name": "somosyampi/yampi-php-sdk",
+    "name": "lucashtc/yampi-php-sdk",
     "type": "library",
-    "description": "SDK oficial da API da plataforma de e-commerce Yampi.",
+    "description": "SDK Não oficial da API da plataforma de e-commerce Yampi.",
     "keywords": [
         "dooki",
         "yampi"
