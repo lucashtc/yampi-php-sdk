@@ -666,7 +666,7 @@ class Request
     /**
      * Adds a new header parameter
      *
-     * @return array
+     * @return self
      */
     public function addHeader($key, $value)
     {
