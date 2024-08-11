@@ -42,7 +42,7 @@ class Response
 
     /**
      * pagination
-     * @return array
+     * @return Pagination
      */
     public function pagination()
     {
