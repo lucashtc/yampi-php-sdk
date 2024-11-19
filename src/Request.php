@@ -310,8 +310,8 @@ class Request
     /**
      * Sets the request query.
      *
-     * @param array $key
-     * @param array $value
+     * @param string $key
+     * @param mixed $value
      */
     public function setQuery($key, $value) : self
     {
